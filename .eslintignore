@@ -1,0 +1,19 @@
+# Common
+node_modules
+dist
+.nuxt
+coverage
+
+# Examples
+
+## cofeescript
+examples/coffeescript/pages/index.vue
+examples/pug-stylus-coffee/**/*.*
+examples/web-worker/**/*.*
+examples/vue-class-component/**/*.*
+
+# Packages
+
+# vue-app
+packages/vue-app/template
+!packages/vue-app/template/store.js
